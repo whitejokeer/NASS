@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.13)  13 FEB 2021 13:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.13)  13 FEB 2021 15:07
 entering extended mode
 **c:/Users/jairo/Documents/NASS/PrimerAvance/informe_primer_avance.tex
 (c:/Users/jairo/Documents/NASS/PrimerAvance/informe_primer_avance.tex
@@ -192,8 +192,8 @@ File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count284
 \l__pdf_internal_box=\box95
 ) (c:/Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.aux
-LaTeX Info: Redefining \. on input line 13.
-LaTeX Info: Redefining \% on input line 13.
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
 )
 \openout1 = `informe_primer_avance.aux'.
 
@@ -231,27 +231,37 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 29.
+(Font)              <7> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 29.
- (content/introduccion/abstract.tex) (content/introduccion/introduccion.tex) (content/marcoConceptual/marco_conceptual.tex) (content/objetivos/objetivos.tex) (content/metodologia/metodologia.tex) (content/avances/avances.tex) (content/cronograma/cronograma.tex) (content/conclusiones/conclusiones.tex) (content/futuro/futuro.tex) (content/agradecimientos/agradecimientos.tex) (anexos/anexos.tex) [1
+(Font)              <5> on input line 25.
+ (content/introduccion/abstract.tex) (content/introduccion/introduccion.tex) (content/marcoConceptual/marco_conceptual.tex) (content/objetivos/objetivos.tex (content/objetivos/objetivo_general.tex) (content/objetivos/objetivos_especificos.tex)) (content/metodologia/metodologia.tex) (content/avances/avances.tex) (content/cronograma/cronograma.tex) (content/conclusiones/conclusiones.tex) (content/futuro/futuro.tex) (content/agradecimientos/agradecimientos.tex) (anexos/anexos.tex) (c:/Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.bbl
 
-{C:/Users/jairo/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (c:/Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.aux
-LaTeX Info: Redefining \. on input line 13.
-LaTeX Info: Redefining \% on input line 13.
+LaTeX Warning: Empty `thebibliography' environment on input line 6.
+
+)
+Underfull \vbox (badness 3679) has occurred while \output is active []
+
+ [1
+
+{C:/Users/jairo/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+LaTeX Info: Redefining \. on input line 63.
+LaTeX Info: Redefining \% on input line 63.
+ [2] (c:/Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.aux
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
 ) ) 
 Here is how much of TeX's memory you used:
- 2830 strings out of 479618
- 41730 string characters out of 2874902
- 342500 words of memory out of 3000000
- 19962 multiletter control sequences out of 15000+200000
- 405751 words of font info for 35 fonts, out of 3000000 for 9000
+ 2842 strings out of 479618
+ 42283 string characters out of 2874902
+ 341480 words of memory out of 3000000
+ 19964 multiletter control sequences out of 15000+200000
+ 406059 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,4n,74p,322b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\jairo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on c:/Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.pdf (1 page, 91972 bytes).
+ 68i,5n,74p,322b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\jairo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on c:/Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.pdf (2 pages, 103434 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
