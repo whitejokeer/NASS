@@ -162,7 +162,6 @@ INPUT content\introduccion\abstract.tex
 INPUT .\content\introduccion\abstract.tex
 INPUT content\introduccion\abstract.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx9.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm0900.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT .\content\introduccion\introduccion.tex
@@ -221,8 +220,6 @@ INPUT c:\Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.bbl
 OUTPUT c:\Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.pdf
 INPUT C:\Users\jairo\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT c:\Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.aux
-INPUT C:\Users\jairo\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0900.pk
-INPUT C:\Users\jairo\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0900.pk
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
