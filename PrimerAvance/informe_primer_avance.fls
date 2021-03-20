@@ -1,18 +1,18 @@
-PWD c:\Users\jairo\Documents\NASS\PrimerAvance
-INPUT C:\Users\jairo\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\jairo\Documents\NASS\PrimerAvance\informe_primer_avance.tex
-OUTPUT c:\Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.log
-INPUT .\llncs.cls
-INPUT .\llncs.cls
-INPUT llncs.cls
-INPUT .\llncs.cls
-INPUT .\llncs.cls
-INPUT .\llncs.cls
-INPUT .\llncs.cls
-INPUT .\llncs.cls
-INPUT llncs.cls
-INPUT .\llncs.cls
-INPUT llncs.cls
+PWD c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance
+INPUT C:\Users\silvi\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\informe_primer_avance.tex
+OUTPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\informe_primer_avance.log
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\llncs.cls
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\llncs.cls
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\llncs.cls
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\llncs.cls
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\llncs.cls
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\llncs.cls
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\llncs.cls
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\llncs.cls
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\llncs.cls
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\llncs.cls
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\llncs.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
@@ -67,10 +67,10 @@ INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
-INPUT C:\Users\jairo\AppData\Roaming\MiKTeX\tex\latex\babel-spanish\spanish.ldf
-INPUT C:\Users\jairo\AppData\Roaming\MiKTeX\tex\latex\babel-spanish\spanish.ldf
-INPUT C:\Users\jairo\AppData\Roaming\MiKTeX\tex\latex\babel-spanish\spanish.ldf
-INPUT C:\Users\jairo\AppData\Roaming\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\silvi\AppData\Roaming\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\silvi\AppData\Roaming\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\silvi\AppData\Roaming\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\silvi\AppData\Roaming\MiKTeX\tex\latex\babel-spanish\spanish.ldf
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
@@ -134,10 +134,10 @@ INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.aux
-INPUT c:\Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.aux
-INPUT c:\Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.aux
-OUTPUT c:\Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.aux
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\informe_primer_avance.aux
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\informe_primer_avance.aux
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\informe_primer_avance.aux
+OUTPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\informe_primer_avance.aux
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -157,69 +157,69 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt9.tfm
-INPUT .\content\introduccion\abstract.tex
-INPUT content\introduccion\abstract.tex
-INPUT .\content\introduccion\abstract.tex
-INPUT content\introduccion\abstract.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\introduccion\abstract.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\introduccion\abstract.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\introduccion\abstract.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\introduccion\abstract.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx9.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT .\content\introduccion\introduccion.tex
-INPUT content\introduccion\introduccion.tex
-INPUT .\content\introduccion\introduccion.tex
-INPUT content\introduccion\introduccion.tex
-INPUT .\content\marcoConceptual\marco_conceptual.tex
-INPUT content\marcoConceptual\marco_conceptual.tex
-INPUT .\content\marcoConceptual\marco_conceptual.tex
-INPUT content\marcoConceptual\marco_conceptual.tex
-INPUT .\content\objetivos\objetivos.tex
-INPUT content\objetivos\objetivos.tex
-INPUT .\content\objetivos\objetivos.tex
-INPUT content\objetivos\objetivos.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\introduccion\introduccion.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\introduccion\introduccion.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\introduccion\introduccion.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\introduccion\introduccion.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\marcoConceptual\marco_conceptual.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\marcoConceptual\marco_conceptual.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\marcoConceptual\marco_conceptual.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\marcoConceptual\marco_conceptual.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\objetivos\objetivos.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\objetivos\objetivos.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\objetivos\objetivos.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\objetivos\objetivos.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-INPUT .\content\objetivos\objetivo_general.tex
-INPUT content\objetivos\objetivo_general.tex
-INPUT .\content\objetivos\objetivo_general.tex
-INPUT content\objetivos\objetivo_general.tex
-INPUT .\content\objetivos\objetivos_especificos.tex
-INPUT content\objetivos\objetivos_especificos.tex
-INPUT .\content\objetivos\objetivos_especificos.tex
-INPUT content\objetivos\objetivos_especificos.tex
-INPUT .\content\metodologia\metodologia.tex
-INPUT content\metodologia\metodologia.tex
-INPUT .\content\metodologia\metodologia.tex
-INPUT content\metodologia\metodologia.tex
-INPUT .\content\avances\avances.tex
-INPUT content\avances\avances.tex
-INPUT .\content\avances\avances.tex
-INPUT content\avances\avances.tex
-INPUT .\content\cronograma\cronograma.tex
-INPUT content\cronograma\cronograma.tex
-INPUT .\content\cronograma\cronograma.tex
-INPUT content\cronograma\cronograma.tex
-INPUT .\content\conclusiones\conclusiones.tex
-INPUT content\conclusiones\conclusiones.tex
-INPUT .\content\conclusiones\conclusiones.tex
-INPUT content\conclusiones\conclusiones.tex
-INPUT .\content\futuro\futuro.tex
-INPUT content\futuro\futuro.tex
-INPUT .\content\futuro\futuro.tex
-INPUT content\futuro\futuro.tex
-INPUT .\content\agradecimientos\agradecimientos.tex
-INPUT content\agradecimientos\agradecimientos.tex
-INPUT .\content\agradecimientos\agradecimientos.tex
-INPUT content\agradecimientos\agradecimientos.tex
-INPUT .\anexos\anexos.tex
-INPUT anexos\anexos.tex
-INPUT .\anexos\anexos.tex
-INPUT anexos\anexos.tex
-INPUT c:\Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.bbl
-INPUT c:\Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.bbl
-INPUT c:\Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.bbl
-INPUT c:\Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.bbl
-OUTPUT c:\Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.pdf
-INPUT C:\Users\jairo\AppData\Local\MiKTeX\pdftex\config\pdftex.map
-INPUT c:\Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.aux
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\objetivos\objetivo_general.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\objetivos\objetivo_general.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\objetivos\objetivo_general.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\objetivos\objetivo_general.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\objetivos\objetivos_especificos.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\objetivos\objetivos_especificos.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\objetivos\objetivos_especificos.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\objetivos\objetivos_especificos.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\metodologia\metodologia.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\metodologia\metodologia.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\metodologia\metodologia.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\metodologia\metodologia.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\avances\avances.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\avances\avances.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\avances\avances.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\avances\avances.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\cronograma\cronograma.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\cronograma\cronograma.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\cronograma\cronograma.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\cronograma\cronograma.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\conclusiones\conclusiones.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\conclusiones\conclusiones.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\conclusiones\conclusiones.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\conclusiones\conclusiones.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\futuro\futuro.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\futuro\futuro.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\futuro\futuro.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\futuro\futuro.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\agradecimientos\agradecimientos.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\agradecimientos\agradecimientos.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\agradecimientos\agradecimientos.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content\agradecimientos\agradecimientos.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\anexos\anexos.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\anexos\anexos.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\anexos\anexos.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\anexos\anexos.tex
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\informe_primer_avance.bbl
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\informe_primer_avance.bbl
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\informe_primer_avance.bbl
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\informe_primer_avance.bbl
+OUTPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\informe_primer_avance.pdf
+INPUT C:\Users\silvi\AppData\Local\MiKTeX\pdftex\config\pdftex.map
+INPUT c:\Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\informe_primer_avance.aux
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb

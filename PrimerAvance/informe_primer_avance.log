@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.13)  13 FEB 2021 15:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.13)  13 FEB 2021 16:54
 entering extended mode
-**c:/Users/jairo/Documents/NASS/PrimerAvance/informe_primer_avance.tex
-(c:/Users/jairo/Documents/NASS/PrimerAvance/informe_primer_avance.tex
+**c:/Users/silvi/OneDrive/Escritorio/NASS/PrimerAvance/informe_primer_avance.tex
+(c:/Users/silvi/OneDrive/Escritorio/NASS/PrimerAvance/informe_primer_avance.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-01-09> xparse <2020-03-03> (llncs.cls
+L3 programming layer <2021-01-09> xparse <2020-03-03> (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\llncs.cls
 Document Class: llncs 2018/03/10 v2.20 
  LaTeX document class for Lecture Notes in Computer Science
 ("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
@@ -161,7 +161,7 @@ File: babel.def 2020/12/16 3.52 Babel common definitions
 *
 ("C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\jairo\AppData\Roaming\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+) (C:\Users\silvi\AppData\Roaming\MiKTeX\tex/latex/babel-spanish\spanish.ldf
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 \es@quottoks=\toks19
 \es@quotdepth=\count283
@@ -191,7 +191,7 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count284
 \l__pdf_internal_box=\box95
-) (c:/Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.aux
+) (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\informe_primer_avance.aux
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
 )
@@ -234,32 +234,29 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 25.
- (content/introduccion/abstract.tex) (content/introduccion/introduccion.tex) (content/marcoConceptual/marco_conceptual.tex) (content/objetivos/objetivos.tex (content/objetivos/objetivo_general.tex) (content/objetivos/objetivos_especificos.tex)) (content/metodologia/metodologia.tex) (content/avances/avances.tex) (content/cronograma/cronograma.tex) (content/conclusiones/conclusiones.tex) (content/futuro/futuro.tex) (content/agradecimientos/agradecimientos.tex) (anexos/anexos.tex) (c:/Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.bbl
+ (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content/introduccion/abstract.tex) (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content/introduccion/introduccion.tex) (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content/marcoConceptual/marco_conceptual.tex) (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content/objetivos/objetivos.tex (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content/objetivos/objetivo_general.tex) (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content/objetivos/objetivos_especificos.tex)) (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content/metodologia/metodologia.tex) (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content/avances/avances.tex) (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content/cronograma/cronograma.tex) (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content/conclusiones/conclusiones.tex) (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content/futuro/futuro.tex) (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\content/agradecimientos/agradecimientos.tex) (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\anexos/anexos.tex) (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\informe_primer_avance.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 6.
 
-)
-Underfull \vbox (badness 1635) has occurred while \output is active []
+) [1
 
- [1
-
-{C:/Users/jairo/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+{C:/Users/silvi/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 LaTeX Info: Redefining \. on input line 67.
 LaTeX Info: Redefining \% on input line 67.
- [2] (c:/Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.aux
+ [2] (c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\informe_primer_avance.aux
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
 ) ) 
 Here is how much of TeX's memory you used:
- 2842 strings out of 479618
- 42289 string characters out of 2874902
- 341480 words of memory out of 3000000
- 19965 multiletter control sequences out of 15000+200000
+ 2843 strings out of 479618
+ 43275 string characters out of 2874902
+ 343480 words of memory out of 3000000
+ 19968 multiletter control sequences out of 15000+200000
  405722 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,5n,74p,322b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,5n,74p,1010b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on c:/Users\jairo\Documents\NASS\PrimerAvance\build\informe_primer_avance.pdf (2 pages, 102774 bytes).
+Output written on c:/Users\silvi\OneDrive\Escritorio\NASS\PrimerAvance\informe_primer_avance.pdf (2 pages, 104222 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
