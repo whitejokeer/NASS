@@ -23,6 +23,7 @@ class NassApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'NASS',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         textTheme: TextTheme(
           headline1: GoogleFonts.titanOne(
@@ -50,40 +51,39 @@ class NassApp extends StatelessWidget {
             color: colorHookers,
           ),
           subtitle1: GoogleFonts.taviraj(
-            fontSize: 25.0,
+            fontSize: 18.0,
             color: colorHookers,
           ),
           subtitle2: GoogleFonts.taviraj(
-            fontSize: 18.0,
+            fontSize: 15.0,
             color: colorHookers,
             fontWeight: FontWeight.w600,
           ),
           bodyText1: GoogleFonts.roboto(
-            fontSize: 20.0,
+            fontSize: 18.0,
             color: colorHookers,
           ),
           bodyText2: GoogleFonts.roboto(
-            fontSize: 18.0,
+            fontSize: 15.0,
             color: colorHookers,
           ),
         ),
         appBarTheme: AppBarTheme(
-          color: Colors.grey[300],
+          color: Colors.grey[200],
           centerTitle: true,
           elevation: 0.0,
         ),
         primaryColor: colorTurquoise,
-        scaffoldBackgroundColor: Colors.grey[300],
+        scaffoldBackgroundColor: Colors.grey[200],
       ),
-      initialRoute: '/splash',
       routes: routes,
     );
   }
 }
 
 final routes = {
-  '/splash': (BuildContext context) => SplashPage(),
-  '/': (BuildContext context) => HomePage(),
+  '/': (BuildContext context) => SplashPage(),
+  '/home': (BuildContext context) => HomePage(),
   '/login': (BuildContext context) => LoginPage(),
   '/register': (BuildContext context) => RegisterPage(),
   '/images': (BuildContext context) => ImagesPage(),

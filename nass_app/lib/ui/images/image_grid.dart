@@ -8,13 +8,13 @@ import '../widgets/soft_card.dart';
 class ImagesGridBuilder extends ConsumerWidget {
   @override
   Widget build(BuildContext context, ScopedReader watch) {
-    final imageBuilder = watch(imageDataProvider);
+    final imageBuilder = watch(fileDataProvider("img"));
     return imageBuilder.when(
       data: (item) => item.isNotEmpty
           ? SliverGrid(
-              gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: 2,
-                mainAxisExtent: 180.0,
+              gridDelegate: SliverGridDelegateWithMaxCrossAxisExtent(
+                maxCrossAxisExtent: 300.0,
+                mainAxisExtent: 250.0,
                 crossAxisSpacing: 16.0,
                 mainAxisSpacing: 16.0,
               ),
@@ -35,7 +35,7 @@ class ImagesGridBuilder extends ConsumerWidget {
                                 child: Center(
                                   child: FadeInImage.assetNetwork(
                                       placeholder: 'assets/gif/loading.gif',
-                                      image: item[index].imageUrl),
+                                      image: item[index].fileUrl),
                                 ),
                               ),
                               Padding(
@@ -69,7 +69,7 @@ class ImagesGridBuilder extends ConsumerWidget {
                         ),
                       ),
                       Flexible(
-                        flex: 2,
+                        flex: 1,
                         child: Padding(
                           padding: EdgeInsets.symmetric(
                             horizontal: 10.0,
@@ -80,8 +80,9 @@ class ImagesGridBuilder extends ConsumerWidget {
                             maxLines: 2,
                             style: Theme.of(context)
                                 .textTheme
-                                .bodyText2
-                                .copyWith(fontSize: 16),
+                                .subtitle1
+                                .copyWith(
+                                    fontSize: 20, fontWeight: FontWeight.w700),
                           ),
                         ),
                       )
@@ -109,7 +110,7 @@ class ImagesGridBuilder extends ConsumerWidget {
       ),
       error: (e, s) => SliverToBoxAdapter(
         child: Center(
-          child: Text("Ocurrio un error inesperado.\nVuelve a intentarlo."),
+          child: Text("Ocurrio un error inesperado.\nVuelve a intentarlo.\n$s"),
         ),
       ),
     );

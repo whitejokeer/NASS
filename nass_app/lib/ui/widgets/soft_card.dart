@@ -14,18 +14,18 @@ class SoftCard extends StatelessWidget {
       width: width ?? double.infinity,
       height: height ?? double.infinity,
       decoration: BoxDecoration(
-        color: Colors.grey[300],
+        color: Colors.grey[200],
         borderRadius: BorderRadius.circular(15.0),
         boxShadow: [
           BoxShadow(
-            color: Colors.grey[500],
-            offset: Offset(3.0, 3.0),
-            blurRadius: 10.0,
+            color: Colors.grey[400],
+            offset: Offset(4.0, 4.0),
+            blurRadius: 15.0,
           ),
           BoxShadow(
             color: Colors.white,
-            offset: Offset(-3.0, -3.0),
-            blurRadius: 10.0,
+            offset: Offset(-4.0, -4.0),
+            blurRadius: 15.0,
           ),
         ],
       ),
