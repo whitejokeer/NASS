@@ -11,12 +11,12 @@ class RegisterPage extends StatelessWidget {
     return Scaffold(
       body: LayoutBuilder(
         builder: (context, constrains) {
-          if (Platform.isAndroid) {
+          if (0 == 0.0) {
+            return Center(child: RegisterDesktopView(),);
+          } else if (Platform.isAndroid) {
             return RegisterAppLayout();
           } else {
-            return Center(
-              child: RegisterDesktopView(),
-            );
+            return Center(child: RegisterDesktopView(),);
           }
         },
       ),

@@ -28,10 +28,7 @@ class ImagesPage extends StatelessWidget {
       floatingActionButton: AddButton(),
       body: CustomScrollView(
         slivers: [
-          SliverPadding(
-            padding: EdgeInsets.all(16.0),
-            sliver: ImagesGridBuilder(),
-          ),
+          ImagesGridBuilder(),
         ],
       ),
     );

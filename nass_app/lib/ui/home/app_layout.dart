@@ -111,7 +111,7 @@ class _AppHomePageState extends State<AppHomePage> {
                       EdgeInsets.symmetric(horizontal: 16.0, vertical: 16.0),
                   sliver: SliverToBoxAdapter(
                     child: Container(
-                        height: 160,
+                        height: 200,
                         width: double.infinity,
                         child: AdminCard()),
                   ),

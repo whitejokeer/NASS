@@ -16,6 +16,7 @@ class AuthenticationController {
 
     Response loginResponse =
         await post(Uri.parse(backURL + "/login"), headers: headers, body: json);
+    print(loginResponse.body);
 
     int statusCode = loginResponse.statusCode;
 

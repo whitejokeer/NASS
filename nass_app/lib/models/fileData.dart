@@ -5,8 +5,10 @@ class FileData {
   DateTime creado;
   // El peso se muestra en KiloBytes
   num peso;
+  bool uploaded;
 
   FileData({
+    @required this.uploaded,
     @required this.fileUrl,
     @required this.nombre,
     @required this.creado,
@@ -21,5 +23,6 @@ class FileData {
         creado = DateTime.parse(parsedJson['upload_date'] as String),
         owner = parsedJson['owner'],
         tipo = parsedJson['tipo'],
-        peso = parsedJson['peso'] as num;
+        peso = parsedJson['peso'] as num,
+        uploaded = false;
 }

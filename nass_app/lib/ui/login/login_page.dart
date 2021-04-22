@@ -12,12 +12,20 @@ class LoginPage extends StatelessWidget {
     return Scaffold(
       body: LayoutBuilder(
         builder: (context, constrains) {
-          if (Platform.isAndroid) {
+          if (0 == 0.0) {
+            if (constrains.maxWidth < 600) {
+              return Center(child: DesktopAppView());
+            } else {
+              return Center(child: DesktopView());
+            }
+          } else if (Platform.isAndroid) {
             return AppLayout();
-          } else if (constrains.maxWidth < 600) {
-            return Center(child: DesktopAppView());
           } else {
-            return Center(child: DesktopView());
+            if (constrains.maxWidth < 600) {
+              return Center(child: DesktopAppView());
+            } else {
+              return Center(child: DesktopView());
+            }
           }
         },
       ),

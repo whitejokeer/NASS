@@ -26,6 +26,7 @@ class HomeController extends StateNotifier<User> {
       state = User.adminMap(info);
       prefs.setString("userStorage", "${state.userStorage}");
       prefs.setString("userSync", "${state.userSync}");
+      prefs.setString("userName", "${state.nombre}");
       return state;
     } else if (statusCode == 200) {
       Map<String, dynamic> info = jsonDecode(loginResponse.body);

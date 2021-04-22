@@ -111,7 +111,7 @@ class _AdminCardState extends State<AdminCard> {
             key: formKey,
             child: Wrap(
               spacing: 16.0,
-              alignment: WrapAlignment.spaceEvenly,
+              alignment: WrapAlignment.start,
               runSpacing: 16.0,
               crossAxisAlignment: WrapCrossAlignment.center,
               children: <Widget>[
