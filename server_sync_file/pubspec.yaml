@@ -1,7 +1,7 @@
 name: server_sync_file
 description: Flutter package for sync local folders files with server storage buckets.
 version: 0.0.1
-author:
+author: Jairo Jose Sanchez Rodriguez
 homepage:
 
 environment:
